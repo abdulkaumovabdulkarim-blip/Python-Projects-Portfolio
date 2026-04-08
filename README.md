@@ -6,10 +6,10 @@ Welcome to my Python project collection! As a **Student Developer**, I focus on 
 
 | Project | Description |
 | :--- | :--- |
-| **YouTube Downloader** | Downloads videos/audio with progress bars and playlist support. |
-| **Dice Simulator** | A terminal-based dice game featuring custom ASCII art visualizations. |
 | **Quote Generator** | An automated tool that generates and formats inspirational quotes. |
 | **Number Guesser** | A classic logic game focusing on input validation and loop control. |
+| **Dice Simulator** | A terminal-based dice game featuring custom ASCII art visualizations. |
+| **YouTube Downloader** | Downloads videos/audio with progress bars and playlist support. |
 
 ---
 ![Projects Preview](Python_projects.png)
