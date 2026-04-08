@@ -1,4 +1,4 @@
-# 🚀 Python Portfolio | Abdulqayumov Abdukarim
+# 🐍 Python Portfolio | Abdulqayumov Abdukarim
 
 Welcome to my Python project collection! As a **Student Developer**, I focus on building tools that are both functional and user-friendly.
 
