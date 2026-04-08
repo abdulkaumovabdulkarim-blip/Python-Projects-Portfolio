@@ -16,6 +16,5 @@ Welcome to my Python project collection! As a **Student Developer**, I focus on 
 ---
 
 ## ⚙️ Setup & Installation
-1. Clone the repo: `git clone https://github.com/yourusername/your-repo-name.git`
+1. Clone the repo: `git clone https://github.com/abdulkaumovabdulkarim-blip/Python-Projects-Portfolio`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run any project: `python 04_YT_Downloader/main.py`
