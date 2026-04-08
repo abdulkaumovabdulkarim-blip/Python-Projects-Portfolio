@@ -1,0 +1,14 @@
+# --- Python Virtual Environment ---
+# This hides all those messy internal libraries you just tried to uninstall
+python_sp_venv/
+venv/
+env/
+
+# --- Python Internals ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- IDE Settings ---
+.vscode/
+.idea/
