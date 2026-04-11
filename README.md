@@ -12,6 +12,7 @@ Welcome to my Python project collection! As a **Student Developer**, I focus on 
 | **YouTube Downloader** | Downloads videos/audio with progress bars and playlist support. |
 
 ---
+## 🖼️ Python Project Ideas
 ![Projects Preview](Python_projects.png)
 ---
 
