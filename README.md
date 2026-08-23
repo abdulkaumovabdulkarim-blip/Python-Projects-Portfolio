@@ -10,6 +10,9 @@ Welcome to my Python project collection! As a **Student Developer**, I focus on 
 | **Number Guesser** | A classic logic game focusing on input validation and loop control. |
 | **Dice Simulator** | A terminal-based dice game featuring custom ASCII art visualizations. |
 | **YouTube Downloader** | Downloads videos/audio with progress bars and playlist support. |
+| **Password Manager** | Securely stores usernames and passwords for different websites. |
+| **Mario Party** | Multiplayer, turn-based board game simulator inspired by Nintendo's Mario Party. |
+| **Web Crawler** | Web crawler (or web spider) that starts at a target URL, fetches its HTML content. |
 
 ---
 ## 🖼️ Python Project Ideas
