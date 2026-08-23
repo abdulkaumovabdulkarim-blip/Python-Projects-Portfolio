@@ -12,7 +12,7 @@ Welcome to my Python project collection! As a **Student Developer**, I focus on 
 | **YouTube Downloader** | Downloads videos/audio with progress bars and playlist support. |
 | **Password Manager** | Securely stores usernames and passwords for different websites. |
 | **Mario Party** | Multiplayer, turn-based board game simulator inspired by Nintendo's Mario Party. |
-| **Web Crawler** | Web crawler (or web spider) that starts at a target URL, fetches its HTML content. |
+| **Web Crawler** | Web crawler that starts at a target URL, fetches its HTML content, parses out all hyper-links. |
 
 ---
 ## 🖼️ Python Project Ideas
